@@ -1,0 +1,44 @@
+
+  
+  .box{
+    /* background:white; */
+    width:70%;
+    border-radius:6px;
+    margin-top:10%;
+    margin-left: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #f2f2f2;
+    border: #2980b9 4px solid; 
+  }
+  
+  .email{
+    background:#ecf0f1;
+    border: #ccc 1px solid;
+    border-bottom: #ccc 2px solid;
+    padding: 8px;
+    width:90%;
+    padding-top:20px;
+    padding-left:20px;
+     
+    margin-top:10%;
+    margin-left:10%;
+    font-size:1em;
+    border-radius:4px;
+  }
+  
+
+  
+  
+  
+
+  .mybtn{
+    float: left;
+    /* border-bottom: #ccc 2px solid; */
+    padding: 21px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 200px;
+  }
+
+ 

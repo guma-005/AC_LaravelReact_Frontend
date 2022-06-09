@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+}
+
+.content{
+    
+    margin: 10px;
+    margin-left: 20px;
+
+}

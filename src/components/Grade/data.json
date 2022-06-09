@@ -1,0 +1,51 @@
+{
+    "teachers": [
+      {
+        "id":1,
+        "name": "Chelse",
+        "password": "Chelse"
+        
+      },
+      {
+        "id":2,
+        "name": "Jessi",
+        "password": "Jessi"
+        
+      }
+     
+    ],
+    "grades": [
+      {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "Maths":91,
+        "Science":91,
+        "English":91,
+        "Dutch":91,
+        "Grade":81         
+      },
+      {
+        "id": 2,
+        "firstName": "Sam",
+        "lastName": "Smith",
+        "Maths":81,
+        "Science":81,
+        "English":81,
+        "Dutch":81 ,
+        "Grade":81              
+        
+      },
+      {
+        "id": 3,
+        "firstName": "Sara",
+        "lastName": "Paul",         
+        "Maths":71,
+        "Science":71,
+        "English":71,
+        "Dutch":71,
+        "Grade":71               
+        
+      }
+    ]
+  }
